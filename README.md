@@ -41,5 +41,5 @@ FWI Components
 ####To access your flask application open new tab in and paste the url:
 ```
 ```
-https://{your_url}.pwskills.app:5000/
+(http://127.0.0.1:5000)
 ```
