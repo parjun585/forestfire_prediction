@@ -43,3 +43,9 @@ FWI Components
 ```
 (http://127.0.0.1:5000)
 ```
+```
+####To access the predictdata page go
+```
+```
+(http://127.0.0.1:5000/predictdata)
+```
